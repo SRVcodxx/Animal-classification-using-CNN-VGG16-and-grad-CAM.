@@ -2,4 +2,5 @@
 ## jkjklkl
 # hhjhjh
 kkhg gdggrf frtdg
-![image.png](attachment:760a8f58-7bed-4cca-a068-773c9927d9a3.png)
+
+![model architecture](https://user-images.githubusercontent.com/120489798/208300261-2041c982-60a6-441a-89b8-f17819c6d49b.JPG)
