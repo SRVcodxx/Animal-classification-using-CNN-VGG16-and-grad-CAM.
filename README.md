@@ -22,8 +22,9 @@ The gradCAM function computes the importance map by taking the derivative of the
 ## Model Architecture
 Model: "model"
 _________________________________________________________________
-##### Layer (type)                 Output Shape              Param    
+#### Layer (type)                 Output Shape              Param    
 =================================================================
+
 input_1 (InputLayer)         [(None, 224, 224, 3)]     0         
 _________________________________________________________________
 block1_conv1 (Conv2D)        (None, 224, 224, 64)      1792      
